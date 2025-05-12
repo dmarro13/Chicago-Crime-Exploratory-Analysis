@@ -1,5 +1,5 @@
 # Chicago-Crime-Exploratory-Analysis
-This is an exploratory project focused on the data provided by the Chicago Police Department on crime. My project is focused on exploring data from the last 5 years (2020-2024). Five goals of this project are to : 
+This is an exploratory project focused on data provided by the Chicago Police Department on crime using pandas and matplotlib. My project is focused on exploring data from the last 5 years (2020-2024). Five goals of this project are to : 
 document the most common type of crime,
 explore the correlation of crime to time and month,
 report on the frequency of dangerous crime,
